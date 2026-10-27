@@ -6,12 +6,12 @@ subtitle:
 
 profile:
   align: right
-  image: profile.png
+  image: ariela_profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD Student</p>
     <p>Rutgers Linguistics</p>
-    <p>aidan.sharma@rutgers.edu</p>
+    <p>arielalu.ye@rutgers.edu</p>
     
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a fifth year Linguistics PhD student at Rutgers University advised by [Mark Baker](https://sites.rutgers.edu/mark-baker/) and [Dorothy Ahn](https://dorothyahn.com/). My theoretical interests are mostly in syntax, semantics, and pragmatics, but I have done some phonology work as well. My research focuses on definiteness and honorificity, and I am also interested in multi-functional quantifier particles and vowel reduction.
-
-Language-wise, my work is mainly on (Eastern) Indo-Aryan and Turkic. In particular, I'm interested in Magahi and the other languages spoken in Bihar, and Kazakh, Kyrgyz, Uyghur and the other Turkic languages spoken in Central Asia. I have also begun working on the Western Indo-Aryan language Banjara.
-
-At Rutgers, I'm a member of the [Meaning Across Languages Lab](https://sites.rutgers.edu/themallab/) run by Dorothy Ahn and the Fieldwork Lab run by Maria Kouneli and Ryan Walter Smith.
-
-Before Rutgers, I did my undergrad in math at UCLA, where I was also a member of the Russian Flagship Program. For the overseas portion of the program, I studied Russian for a summer then later a full academic year through Al-Farabi Kazakh National University.
+I'm a PhD candidate in the Rutgers Linguistics Department advised by [Mark Baker](https://sites.rutgers.edu/mark-baker/) and [Troy Messick](https://sites.rutgers.edu/troy-messick/). I'm primarily interested in syntax, semantics, and their interface, as well as fieldwork. I've mostly worked on East Asian languages and African languages so far, and have also worked on Armenian and Arabic. Currently, I'm working on how meanings are represented at the left periphery, structural hierarchy and complex predicates. Feel free to email me at arielalu.ye@rutgers.edu or arielaluye@gmail.com!
