@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: ariela_profile.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD Student</p>
     <p>Rutgers Linguistics</p>
