@@ -1,0 +1,50 @@
+/*****************************
+ * Fieldwork styles
+ *****************************/
+
+.fieldwork {
+  margin-top: 30px;
+  font-family: var(--global-font-family);
+}
+
+.fieldwork h1 {
+  color: var(--global-theme-color);
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: left;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+.fieldwork h2 {
+  color: var(--global-text-color);
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-align: left;
+  margin-top: 1.25em;
+  margin-bottom: 0.6em;
+}
+
+.fieldwork-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.35rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.fieldwork-links a.btn {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-text-color);
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  margin-left: 0;
+}
+
+.fieldwork-links a.btn:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}
