@@ -35,7 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-will-give-a-talk-with-mark-baker-and-thuong-bui-on-the-relationship-of-agreement-to-clitic-doubling-subject-clitics-in-baatonum-at-clitics-and-agreement-markers-across-languages-from-balkan-to-bantu-and-beyond-dgfs-2027-workshop",
+          title: 'I will give a talk with Mark Baker and Thuong Bui on The...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
