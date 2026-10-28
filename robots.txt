@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aidansharma.com/arielaye.github.io/sitemap.xml
+Sitemap: https://arielaye.com/sitemap.xml
