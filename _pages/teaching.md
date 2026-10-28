@@ -13,7 +13,7 @@ Most of my research is based on fieldwork data. You can read about some of the l
 
 <h1>Baatonum</h1>
 
-Baatonum (ISO: bba) is a Niger-Congo language spoken in Benin. My work on Yemba began in a fields methods class taught at Rutgers in Spring 2023, and I have continued to work on the language since then. Currently, I am working with Mark Baker and Thuong (Beryl) Bui on clitics, with Maria Kouneli and Thuong (Beryl) Bui on causatives, and with Jiayuan Chen on definites.
+Baatonum (ISO: bba) is a Niger-Congo language spoken in Benin. My work on Baatonum began in a fields methods class taught at Rutgers in Spring 2023, and I have continued to work on the language since then. Currently, I am working with Mark Baker and Thuong (Beryl) Bui on clitics, with Maria Kouneli and Thuong (Beryl) Bui on causatives, and with Jiayuan Chen on definites.
 
 
 <h1>Kazakh</h1>
