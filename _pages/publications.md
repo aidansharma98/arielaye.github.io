@@ -12,7 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 <div class="publications">
-  * indicates co-first authors.
+  † indicates co-first authors.
   <h1>Journal Papers</h1>
   {% bibliography -f papers %}
 
