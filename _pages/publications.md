@@ -12,6 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 <div class="publications">
+  $\dagger$
   <h1>Journal Papers</h1>
   {% bibliography -f papers %}
 
